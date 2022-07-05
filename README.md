@@ -42,7 +42,7 @@
 ### 6. 대회 성과
 |분류|팀명|순위|최종점수|제출수|
 |:---|:---|:---|:---|:---|
-|PUBLIC|모여봐요 나뭇잎숲|9위|87.27088|85|
-|PRIVATE|모여봐요 나뭇잎숲|21위|106.13411|79|
+|PUBLIC|[모여봐요 나뭇잎숲](https://dacon.io/competitions/official/235745/leaderboard)|9위|87.27088|85|
+|PRIVATE|[모여봐요 나뭇잎숲](https://dacon.io/competitions/official/235745/leaderboard)|21위|106.13411|79|
 
  
