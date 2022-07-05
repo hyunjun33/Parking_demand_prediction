@@ -20,6 +20,8 @@
 ### 4. 폴더 설명
 |폴더명|내용|세부사항|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|:best score model|테스트2|테스트3|
+|:codes built during project|테스트2|테스트3|
+|:dacon parking demand dataset|테스트2|테스트3|
+|:final source code|테스트2|테스트3|
+|:parking demand sub files|테스트2|테스트3|
