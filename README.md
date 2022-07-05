@@ -20,7 +20,7 @@
 ### 4. 폴더 설명
 |폴더명|내용|세부사항|
 |:------|:---|:---|
-|best score model|테스트2|테스트3|
+|best score model|Public submission 최고 점수를 기록한 모델|베이스모델 + 공급유형 피처와 임대보증금 예측값 피처를 추가|
 |codes built during project|테스트2|테스트3|
 |dacon parking demand dataset|테스트2|테스트3|
 |final source code|테스트2|테스트3|
