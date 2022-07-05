@@ -20,8 +20,8 @@
 ### 4. 폴더 설명
 |폴더명|내용|세부사항|
 |:---|:---|:------|
-|best score model|Public submission 최고 점수를 기록한 모델|베이스모델 + 공급유형 피처와 임대보증금 예측값 피처를 추가|
-|codes built during project|테스트2|테스트3|
-|dacon parking demand dataset|테스트2|테스트3|
-|final source code|테스트2|테스트3|
-|parking demand sub files|테스트2|테스트3|
+|best score model|Public submission 최고 점수를 기록한 모델|공급유형 피처와 임대보증금 예측값 피처를 추가하여 학습최적화|
+|codes built during project|작성한 raw 코드 목록|데이터셋 에러처리부터 다양한 모델생성 및 학습과정에 작성한 모든 코드들|
+|dacon parking demand dataset|원본 데이터셋과 전처리 데이터셋|원본데이터, 전처리 완료 데이터, sub 데이터|
+|final source code|최종 제출 후 소스코드 정리|에러처리, 데이터 전처리, 베이스모델, 다양한 모델 및 피처 변형 모델 코드|
+|parking demand sub files|예측결과 확인용 제출파일 목록|예측 모델과 가중치조합이 명시된 |
