@@ -2,7 +2,7 @@
 
 ## 개요
 - 대회 이름 : 주차수요 예측 AI 경진대회
-- 대회 정보 : https://dacon.io/competitions/official/235745/overview/description
+- [대회 정보](https://dacon.io/competitions/official/235745/overview/description)
 - 기간 : 2021.06.10 ~ 2021.07.30 18:00
 
 ### 1. 배경- 대회 참조
@@ -17,3 +17,9 @@
 1. [팀원소개](https://www.notion.so/caac7b127e5547d39234c067ceca5d21?v=4c7d7e4d8d664c94aebde5f0d60c57c6)
 2. [사용 Module](https://www.notion.so/54557a7597f644c6ba8a636ed915e35a?v=cc64f52b399849819e29b7ff719d9660)
 
+### 4. 폴더
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
