@@ -1,4 +1,4 @@
-# Dacon competition parking demand prediction
+# Dacon Parking demand prediction
 
 ## 개요
 - 주차수요 예측 AI 경진대회
